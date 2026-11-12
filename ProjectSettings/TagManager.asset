@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Ground
+  - Death
   layers:
   - Default
   - TransparentFX
@@ -14,7 +16,7 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - Ground
   - 
   - 
   - 
@@ -42,26 +44,41 @@ TagManager:
     uniqueID: 0
     locked: 0
   - name: BackGround
-    uniqueID: 634559801
+    uniqueID: 807969367
     locked: 0
   - name: Ground
-    uniqueID: 3508532043
+    uniqueID: 2752607915
     locked: 0
   - name: Tree
-    uniqueID: 2369833693
+    uniqueID: 4215083027
     locked: 0
   - name: Coins
-    uniqueID: 2026549015
+    uniqueID: 3215336395
     locked: 0
-  - name: Poison
-    uniqueID: 2258877793
-    locked: 0
-  - name: Cloud
-    uniqueID: 1462036971
+  - name: Enemy
+    uniqueID: 1871631459
     locked: 0
   - name: Wall
-    uniqueID: 523713101
+    uniqueID: 2764427419
+    locked: 0
+  - name: Wall Secret
+    uniqueID: 1051120905
+    locked: 0
+  - name: Rocks
+    uniqueID: 894177145
+    locked: 0
+  - name: Gass
+    uniqueID: 3965068903
+    locked: 0
+  - name: Box
+    uniqueID: 1226363119
+    locked: 0
+  - name: Cave
+    uniqueID: 1003259783
+    locked: 0
+  - name: Ladder
+    uniqueID: 3128893025
     locked: 0
   - name: Player
-    uniqueID: 2729454139
+    uniqueID: 717153361
     locked: 0
